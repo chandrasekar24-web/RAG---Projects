@@ -55,12 +55,3 @@ The project uses **LangChain** for orchestration, **Google Gemini Embeddings** f
 7. **Answer Generation**
 
    * Use Gemini 2.5 Flash to generate concise and context-aware responses.
-
-
-
-
-* Support multiple websites and PDFs.
-* Add conversational memory.
-* Implement a web interface using Streamlit.
-* Add source citations in responses.
-* Deploy as a cloud-based application.
